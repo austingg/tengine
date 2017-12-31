@@ -2,7 +2,7 @@
 
 [![GitHub license](http://OAID.github.io/pics/apache_2.0.svg)](./LICENSE)
 
-**Tengine**, developed by Open AI lab, is a lite, high-performance, and modular inference engine for embedded device.
+**Tengine**, developed by **OPEN** AI LAB, is a lite, high-performance, and modular inference engine for embedded device.
 
 Tengine is composed of four modules: **core/operator/serializer/executor**.
 
@@ -44,7 +44,11 @@ Tengine can be extended to support new serialization format, by building new ser
 
 ## Release History
 
-### version 0.1.0 - 2018/01
+### version 0.1.2 - 2017/12/30
+
+Update documents, as well a few fixes.
+
+### version 0.1.0 - 2017/12/29
 
 Initial release of single A72 support
 
